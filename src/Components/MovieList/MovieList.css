@@ -1,0 +1,9 @@
+.foundMovies {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1rem;
+    color: rgb(234, 120, 120);
+}
+.MovieList {
+    color: white;
+}
